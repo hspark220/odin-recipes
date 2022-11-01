@@ -1,0 +1,25 @@
+
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+img {
+    width:auto;
+    height: 300px;
+}
+
+.home {
+    width: 500px;
+    margin-left: 40px;
+    padding-top: 40px;
+    padding-left: 50px;
+}
+
+.recipe-list {
+    width: 300px;
+} 
+
+.recipe {
+    width: 500px;
+    padding-left: 20px;
+}
