@@ -3,6 +3,10 @@
     font-family:Georgia, 'Times New Roman', Times, serif
 }
 
+body a {
+    color: rgb(27, 24, 24);
+}
+
 img {
     width:auto;
     height: 300px;
