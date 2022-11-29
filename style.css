@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,700;1,400&family=Merriweather:wght@400;700&display=swap');
+
 
 * {
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family: Lora, serif
 }
 
 body a {
@@ -19,11 +22,23 @@ img {
     padding-left: 50px;
 }
 
+h1 {
+    font-family: Merriweather, serif;
+    font-size: 44px;
+}
+
 .recipe-list {
     width: 300px;
 } 
+.recipe-list li {
+    font-weight: 500;
+}
 
 .recipe {
     width: 500px;
     padding-left: 20px;
+}
+
+.recipe p, .recipe li {
+    font-weight: 500;
 }
